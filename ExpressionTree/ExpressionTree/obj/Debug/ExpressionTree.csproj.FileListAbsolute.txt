@@ -1,0 +1,8 @@
+E:\expression-tree\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe.config
+E:\expression-tree\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe
+E:\expression-tree\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.pdb
+E:\expression-tree\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csproj.AssemblyReference.cache
+E:\expression-tree\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csproj.SuggestedBindingRedirects.cache
+E:\expression-tree\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csproj.CoreCompileInputs.cache
+E:\expression-tree\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.exe
+E:\expression-tree\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.pdb
