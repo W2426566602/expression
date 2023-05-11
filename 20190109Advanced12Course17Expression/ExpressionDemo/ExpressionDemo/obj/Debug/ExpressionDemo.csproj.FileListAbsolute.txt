@@ -51,3 +51,13 @@ D:\ruanmou\online12\20190109Advanced12Course17Expression\ExpressionDemo\Expressi
 D:\ruanmou\online12\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CopyComplete
 D:\ruanmou\online12\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.exe
 D:\ruanmou\online12\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.pdb
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.exe.config
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.exe
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.pdb
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\bin\Debug\Newtonsoft.Json.dll
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\bin\Debug\Newtonsoft.Json.xml
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.AssemblyReference.cache
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CoreCompileInputs.cache
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CopyComplete
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.exe
+E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.pdb

@@ -28,7 +28,7 @@ namespace ExpressionDemo
             //                Name = p.Name,
             //                Age = p.Age
             //            };
-            Expression<Func<People, bool>> lambda = p => p.Name.Contains("Eleven") && p.Age > 5;
+            Expression<Func<People, bool>> lambda = p => p.Name.Contains("CIM") && p.Age > 5;
         }
     }
 }

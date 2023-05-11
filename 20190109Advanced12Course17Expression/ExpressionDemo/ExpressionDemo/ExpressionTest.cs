@@ -21,6 +21,7 @@ namespace ExpressionDemo
         public static void Show()
         {
             {
+                #region -----------------------------------------------表达式目录树定义的两种方式---------------------------------------------------------------------
                 Func<int, int, int> func = (m, n) => m * n + 2;
                 //lambda实例化委托  是个方法 是实例化委托的参数
                 Expression<Func<int, int, int>> exp = (m, n) => m * n + 2;
@@ -36,6 +37,8 @@ namespace ExpressionDemo
                 int iResult1 = func.Invoke(12, 23);
                 int iResult2 = exp.Compile().Invoke(12, 23);
                 //exp.Compile()之后就是一个委托
+                #endregion
+
             }
 
             {
@@ -81,7 +84,7 @@ namespace ExpressionDemo
                     bool bResult = expression.Compile()(new People()
                     {
                         Id = 5,
-                        Name = "冰封的心",
+                        Name = "CIM",
                         Age = 28
                     });
                 }
@@ -102,7 +105,7 @@ namespace ExpressionDemo
                     expression.Compile()(new People()
                     {
                         Id = 5,
-                        Name = "冰封的心",
+                        Name = "CIM",
                         Age = 28
                     });
                 }
@@ -142,7 +145,7 @@ namespace ExpressionDemo
                     bool bResult = lambda.Compile()(new People()
                     {
                         Id = 11,
-                        Name = "Eleven",
+                        Name = "CIM",
                         Age = 31
                     });
                 }
@@ -203,7 +206,7 @@ namespace ExpressionDemo
                         ParameterExpression parameterExpression = Expression.Parameter(typeof(People), "p");
                         //if(name 不为空)
                         var name = typeof(People).GetProperty("Name");
-                        var eleven = Expression.Constant("Eleven", typeof(string));
+                        var eleven = Expression.Constant("CIM", typeof(string));
                         var nameExp = Expression.Property(parameterExpression, name);
                         var contains = typeof(string).GetMethod("Contains");
                         var containsExp = Expression.Call(nameExp, contains, new Expression[] { eleven });
@@ -220,7 +223,7 @@ namespace ExpressionDemo
                         expression.Compile()(new People()
                         {
                             Id = 10,
-                            Name = "Eleven123"
+                            Name = "CIM"
                         });
                     }
                 }
@@ -333,7 +336,7 @@ namespace ExpressionDemo
                 People people = new People()
                 {
                     Id = 11,
-                    Name = "Eleven",
+                    Name = "CIM",
                     Age = 31
                 };
                 long common = 0;

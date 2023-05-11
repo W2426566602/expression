@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExpressionDemo.MappingExtend;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -31,7 +32,7 @@ namespace ExpressionDemo
     /// 表达式目录树就是数据结构！！！ 一个能拼装能解析的数据结构
     /// 
     /// 
-    /// 咱们讲的，都是怎么拼 where 如果拼Select投影 查询 字段 怎么拼呢
+    /// 
     /// </summary>
     class Program
     {
@@ -39,6 +40,13 @@ namespace ExpressionDemo
         {
             try
             {
+                People people = new People()
+                {
+                    Id = 11,
+                    Name = "CIM",
+                    Age = 31
+                };
+                PeopleCopy peopleCopy = ExpressionGenericMapper<People, PeopleCopy>.Trans(people);
                 Console.WriteLine("欢迎来到.net高级班vip课程，今晚学习表达式树Expression");
                 //{
                 //    new List<int>().Where(i => i > 10);
@@ -50,11 +58,11 @@ namespace ExpressionDemo
                 }
                 {
                     Console.WriteLine("********************MapperTest********************");
-                    //ExpressionTest.MapperTest();
+                    ExpressionTest.MapperTest();
                 }
                 {
                     Console.WriteLine("********************解析表达式目录树********************");
-                    ExpressionVisitorTest.Show();
+                   //ExpressionVisitorTest.Show();
                     //ExpressionVisitor访问者类，Visit是个入口，解读表达式的入口
                     //1 lambda会区分参数和方法体，调度到更专业访问(处理)方法
                     //2 根据表达式的类型，将表达式调度到此类中更专用的访问方法之一的表达式
