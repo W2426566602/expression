@@ -47,7 +47,6 @@ namespace ExpressionDemo
                     Age = 31
                 };
                 PeopleCopy peopleCopy = ExpressionGenericMapper<People, PeopleCopy>.Trans(people);
-                Console.WriteLine("欢迎来到.net高级班vip课程，今晚学习表达式树Expression");
                 //{
                 //    new List<int>().Where(i => i > 10);
                 //    new List<int>().AsQueryable().Where(i => i > 10);
