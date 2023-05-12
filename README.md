@@ -16,7 +16,7 @@ SqlSugar/Src/Asp.NetCore2/SqlSugar/ExpressionsToSql;
 
 ## 分享代码仓库地址
 https://gitee.com/wang-dongping/expression-tree
-https://github.com/W2426566602/Expression-Tree.git
+https://github.com/W2426566602/expression
 
 ## PPT模板地址
 https://www.officeplus.cn/
