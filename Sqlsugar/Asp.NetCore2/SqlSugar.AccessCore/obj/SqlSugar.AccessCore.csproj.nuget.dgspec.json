@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar.AccessCore\\SqlSugar.AccessCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar.AccessCore\\SqlSugar.AccessCore.csproj": {
+      "version": "5.1.2.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar.AccessCore\\SqlSugar.AccessCore.csproj",
+        "projectName": "SqlSugar.AccessCore",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar.AccessCore\\SqlSugar.AccessCore.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar.AccessCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Vs2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\SqlSugar.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\SqlSugar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\SqlSugar.csproj": {
+      "version": "5.1.3.27",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\SqlSugar.csproj",
+        "projectName": "SqlSugar",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\SqlSugar.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\SqlSugar-SqlSugar5\\SqlSugar-SqlSugar5\\Src\\Asp.NetCore2\\SqlSugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Vs2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "Oscar.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "SqlSugarCore.Dm": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "SqlSugarCore.Kdbndp": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

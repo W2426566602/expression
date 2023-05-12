@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.deps.json
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.dll
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.pdb
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.dll
+C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.pdb

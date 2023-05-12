@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SqlSugar.MySqlConnectorCore
+build_property.ProjectDir = C:\Users\Administrator\Downloads\SqlSugar-SqlSugar5\SqlSugar-SqlSugar5\Src\Asp.NetCore2\SqlSugar.MySqlConnectorCore\
