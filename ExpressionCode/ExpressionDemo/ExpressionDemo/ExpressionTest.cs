@@ -42,6 +42,12 @@ namespace ExpressionDemo
             }
 
             {
+                Expression<Func<int, int, int>> exp = (m, n) => m * n + 2;
+
+                exp.Compile().Invoke(1, 2);
+            }
+
+            {
                 //手动拼装表达式目录树，不是用的lambda的快捷方式
                 {
                     //Expression<Func<int>> expression = () => 123 + 234;

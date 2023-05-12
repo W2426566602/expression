@@ -61,3 +61,13 @@ E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\Expressio
 E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CopyComplete
 E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.exe
 E:\expression-tree\20190109Advanced12Course17Expression\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.pdb
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.exe.config
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.exe
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\bin\Debug\ExpressionDemo.pdb
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\bin\Debug\Newtonsoft.Json.dll
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\bin\Debug\Newtonsoft.Json.xml
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.AssemblyReference.cache
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CoreCompileInputs.cache
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CopyComplete
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.exe
+E:\expression-tree\ExpressionCode\ExpressionDemo\ExpressionDemo\obj\Debug\ExpressionDemo.pdb

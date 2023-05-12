@@ -53,8 +53,6 @@
     <Compile Include="ExpressionTest.cs" />
     <Compile Include="ExpressionTreeVisualizer.cs" />
     <Compile Include="ExpressionVisitorTest.cs" />
-    <Compile Include="Iterator\CustomCollection.cs" />
-    <Compile Include="Iterator\YieldShow.cs" />
     <Compile Include="MappingExtend\ExpressionGenericMapper.cs" />
     <Compile Include="MappingExtend\ExpressionMapper.cs" />
     <Compile Include="MappingExtend\ReflectionMapper.cs" />
